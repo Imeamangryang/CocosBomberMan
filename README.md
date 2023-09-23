@@ -1,5 +1,7 @@
 # CocosBomberMan
 
+Using Python, Cocos2D, TCP
+
 
 https://github.com/Imeamangryang/CocosBomberMan/assets/100024733/f4f9cb5f-1fbe-4dac-9f38-3918ecde823c
 
